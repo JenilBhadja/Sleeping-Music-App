@@ -1,0 +1,272 @@
+{
+  "data": {
+    "categories": [
+      {
+        "id": "76883083-6b9e-4704-8d23-0decb23c97b5",
+        "name": "Soft Music",
+        "musicItem": [
+          {
+            "id": "dfb0be5a-376d-4a35-b787-c43fc1630cef",
+            "name": "Placid",
+            "slug": "placid",
+            "bgType": "COLOR",
+            "bgValue": "",
+            "orderId": 1,
+            "category": {
+              "id": "76883083-6b9e-4704-8d23-0decb23c97b5",
+              "name": "Soft Music"
+            },
+            "audioItem": {
+              "id": "67ec9738-be74-435b-a57d-28ffd9c3828e",
+              "url": "https://devsleepyworld.s3.us-east-2.amazonaws.com/music/soft-music/placid/mp3/67ec9738-be74-435b-a57d-28ffd9c3828e.mp3",
+              "name": "music_soft-music_placid.mp3"
+            },
+            "audioTime": 1800,
+            "isUnlocked": true,
+          },
+          {
+            "id": "d7f081b8-69b7-470e-b82d-12fdfc387f7e",
+            "name": "Relieve",
+            "slug": "relieve",
+            "bgType": "COLOR",
+            "bgValue": "",
+            "orderId": 2,
+            "category": {
+              "id": "76883083-6b9e-4704-8d23-0decb23c97b5",
+              "name": "Soft Music"
+            },
+            "audioItem": {
+              "id": "d510f2a3-236f-49b8-a0a5-a4e0ff84f709",
+              "url": "https://devsleepyworld.s3.us-east-2.amazonaws.com/music/soft-music/relieve/mp3/d510f2a3-236f-49b8-a0a5-a4e0ff84f709.mp3",
+              "name": "music_soft-music_relieve.mp3"
+            },
+            "audioTime": 1800,
+            "isUnlocked": true,
+            
+          },
+          {
+            "id": "5eb77a0b-4244-46c4-b8e0-d178ebe85f16",
+            "name": "Tranquilize",
+            "slug": "tranquilize",
+            "bgType": "COLOR",
+            "bgValue": "",
+            "orderId": 3,
+            "category": {
+              "id": "76883083-6b9e-4704-8d23-0decb23c97b5",
+              "name": "Soft Music"
+            },
+            "audioItem": {
+              "id": "312e7e89-6bb1-4bab-83a2-01dea0f768b1",
+              "url": "https://devsleepyworld.s3.us-east-2.amazonaws.com/music/soft-music/tranquilize/mp3/312e7e89-6bb1-4bab-83a2-01dea0f768b1.mp3",
+              "name": "music_soft-music_tranquilize.mp3"
+            },
+            "audioTime": 3600,
+            "isUnlocked": true,
+            
+          },
+          
+        ]
+      },
+      {
+        "id": "df5e8546-cc19-498b-9d38-5cabada190b6",
+        "name": "Nature Music",
+        "musicItem": [
+          {
+            "id": "dfb0be5a-376d-4a35-b787-c43fc1630cef",
+            "name": "Placid",
+            "slug": "placid",
+            "bgType": "COLOR",
+            "bgValue": "",
+            "orderId": 1,
+            "category": {
+              "id": "76883083-6b9e-4704-8d23-0decb23c97b5",
+              "name": "Soft Music"
+            },
+            "audioItem": {
+              "id": "67ec9738-be74-435b-a57d-28ffd9c3828e",
+              "url": "https://devsleepyworld.s3.us-east-2.amazonaws.com/music/soft-music/placid/mp3/67ec9738-be74-435b-a57d-28ffd9c3828e.mp3",
+              "name": "music_soft-music_placid.mp3"
+            },
+            "audioTime": 1800,
+            "isUnlocked": true,
+            
+          },
+          {
+            "id": "d7f081b8-69b7-470e-b82d-12fdfc387f7e",
+            "name": "Relieve",
+            "slug": "relieve",
+            "bgType": "COLOR",
+            "bgValue": "",
+            "orderId": 2,
+            "category": {
+              "id": "76883083-6b9e-4704-8d23-0decb23c97b5",
+              "name": "Soft Music"
+            },
+            "audioItem": {
+              "id": "d510f2a3-236f-49b8-a0a5-a4e0ff84f709",
+              "url": "https://devsleepyworld.s3.us-east-2.amazonaws.com/music/soft-music/relieve/mp3/d510f2a3-236f-49b8-a0a5-a4e0ff84f709.mp3",
+              "name": "music_soft-music_relieve.mp3"
+            },
+            "audioTime": 1800,
+            "isUnlocked": true,
+            
+          },
+          {
+            "id": "5eb77a0b-4244-46c4-b8e0-d178ebe85f16",
+            "name": "Tranquilize",
+            "slug": "tranquilize",
+            "bgType": "COLOR",
+            "bgValue": "",
+            "orderId": 3,
+            "category": {
+              "id": "76883083-6b9e-4704-8d23-0decb23c97b5",
+              "name": "Soft Music"
+            },
+            "audioItem": {
+              "id": "312e7e89-6bb1-4bab-83a2-01dea0f768b1",
+              "url": "https://devsleepyworld.s3.us-east-2.amazonaws.com/music/soft-music/tranquilize/mp3/312e7e89-6bb1-4bab-83a2-01dea0f768b1.mp3",
+              "name": "music_soft-music_tranquilize.mp3"
+            },
+            "audioTime": 3600,
+            "isUnlocked": true,
+            
+          },
+          
+        ]
+      },
+      {
+        "id": "a319d094-2959-4f34-81ae-998228c21cdc",
+        "name": "Ambient Music",
+        "musicItem": [
+          {
+            "id": "dfb0be5a-376d-4a35-b787-c43fc1630cef",
+            "name": "Placid",
+            "slug": "placid",
+            "bgType": "COLOR",
+            "bgValue": "",
+            "orderId": 1,
+            "category": {
+              "id": "76883083-6b9e-4704-8d23-0decb23c97b5",
+              "name": "Soft Music"
+            },
+            "audioItem": {
+              "id": "67ec9738-be74-435b-a57d-28ffd9c3828e",
+              "url": "https://devsleepyworld.s3.us-east-2.amazonaws.com/music/soft-music/placid/mp3/67ec9738-be74-435b-a57d-28ffd9c3828e.mp3",
+              "name": "music_soft-music_placid.mp3"
+            },
+            "audioTime": 1800,
+            "isUnlocked": true,
+            
+          },
+          {
+            "id": "d7f081b8-69b7-470e-b82d-12fdfc387f7e",
+            "name": "Relieve",
+            "slug": "relieve",
+            "bgType": "COLOR",
+            "bgValue": "",
+            "orderId": 2,
+            "category": {
+              "id": "76883083-6b9e-4704-8d23-0decb23c97b5",
+              "name": "Soft Music"
+            },
+            "audioItem": {
+              "id": "d510f2a3-236f-49b8-a0a5-a4e0ff84f709",
+              "url": "https://devsleepyworld.s3.us-east-2.amazonaws.com/music/soft-music/relieve/mp3/d510f2a3-236f-49b8-a0a5-a4e0ff84f709.mp3",
+              "name": "music_soft-music_relieve.mp3"
+            },
+            "audioTime": 1800,
+            
+          },
+          {
+            "id": "5eb77a0b-4244-46c4-b8e0-d178ebe85f16",
+            "name": "Tranquilize",
+            "slug": "tranquilize",
+            "bgType": "COLOR",
+            "bgValue": "",
+            "orderId": 3,
+            "category": {
+              "id": "76883083-6b9e-4704-8d23-0decb23c97b5",
+              "name": "Soft Music"
+            },
+            "audioItem": {
+              "id": "312e7e89-6bb1-4bab-83a2-01dea0f768b1",
+              "url": "https://devsleepyworld.s3.us-east-2.amazonaws.com/music/soft-music/tranquilize/mp3/312e7e89-6bb1-4bab-83a2-01dea0f768b1.mp3",
+              "name": "music_soft-music_tranquilize.mp3"
+            },
+            "audioTime": 3600,
+            "isUnlocked": true,
+            
+          },
+          
+        ]
+      },
+      {
+        "id": "3fd53cf8-fa05-4aae-89b5-0a3231bdce55",
+        "name": "Meditation Music",
+        "musicItem": [
+          {
+            "id": "dfb0be5a-376d-4a35-b787-c43fc1630cef",
+            "name": "Placid",
+            "slug": "placid",
+            "bgType": "COLOR",
+            "bgValue": "",
+            "orderId": 1,
+            "category": {
+              "id": "76883083-6b9e-4704-8d23-0decb23c97b5",
+              "name": "Soft Music"
+            },
+            "audioItem": {
+              "id": "67ec9738-be74-435b-a57d-28ffd9c3828e",
+              "url": "https://devsleepyworld.s3.us-east-2.amazonaws.com/music/soft-music/placid/mp3/67ec9738-be74-435b-a57d-28ffd9c3828e.mp3",
+              "name": "music_soft-music_placid.mp3"
+            },
+            "audioTime": 1800,
+            "isUnlocked": true,
+            
+          },
+          {
+            "id": "d7f081b8-69b7-470e-b82d-12fdfc387f7e",
+            "name": "Relieve",
+            "slug": "relieve",
+            "bgType": "COLOR",
+            "bgValue": "",
+            "orderId": 2,
+            "category": {
+              "id": "76883083-6b9e-4704-8d23-0decb23c97b5",
+              "name": "Soft Music"
+            },
+            "audioItem": {
+              "id": "d510f2a3-236f-49b8-a0a5-a4e0ff84f709",
+              "url": "https://devsleepyworld.s3.us-east-2.amazonaws.com/music/soft-music/relieve/mp3/d510f2a3-236f-49b8-a0a5-a4e0ff84f709.mp3",
+              "name": "music_soft-music_relieve.mp3"
+            },
+            "audioTime": 1800,
+            "isUnlocked": true,
+            
+          },
+          {
+            "id": "5eb77a0b-4244-46c4-b8e0-d178ebe85f16",
+            "name": "Tranquilize",
+            "slug": "tranquilize",
+            "bgType": "COLOR",
+            "bgValue": "",
+            "orderId": 3,
+            "category": {
+              "id": "76883083-6b9e-4704-8d23-0decb23c97b5",
+              "name": "Soft Music"
+            },
+            "audioItem": {
+              "id": "312e7e89-6bb1-4bab-83a2-01dea0f768b1",
+              "url": "https://devsleepyworld.s3.us-east-2.amazonaws.com/music/soft-music/tranquilize/mp3/312e7e89-6bb1-4bab-83a2-01dea0f768b1.mp3",
+              "name": "music_soft-music_tranquilize.mp3"
+            },
+            "audioTime": 3600,
+            "isUnlocked": true,
+            
+          },
+          
+        ]
+      }
+    ]
+  }
+}
